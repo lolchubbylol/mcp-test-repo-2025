@@ -1,0 +1,6 @@
+{
+  "name": "mcp-test-app",
+  "version": "1.0.0",
+  "description": "Test application for MCP",
+  "main": "src/app.js"
+}
